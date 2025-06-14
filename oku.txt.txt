@@ -1,0 +1,7 @@
+Bu hafta TCP ve UDP kavramlarını öğrendik.
+
+Ardından, socket modülünü kullanarak TCP protokolüyle bağlantı kurmayı ve temel bir istemci-sunucu uygulamasının nasıl geliştirileceğini öğrendik (tcp-client ve tcp-server).
+
+Daha sonra yine socket modülünden yararlanarak, bu kez UDP protokolüyle bir istemci-sunucu bağlantısı kurduk ve bu bağlantıya kimlik doğrulama mekanizması ekledik (udp-client ve udp-server).
+
+hafta12
